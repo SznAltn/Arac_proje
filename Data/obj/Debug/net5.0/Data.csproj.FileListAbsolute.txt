@@ -1,0 +1,12 @@
+C:\Users\gokhan.yuce\Desktop\Web_Api_Proje_09052022\Data\bin\Debug\net5.0\Data.deps.json
+C:\Users\gokhan.yuce\Desktop\Web_Api_Proje_09052022\Data\bin\Debug\net5.0\Data.dll
+C:\Users\gokhan.yuce\Desktop\Web_Api_Proje_09052022\Data\bin\Debug\net5.0\ref\Data.dll
+C:\Users\gokhan.yuce\Desktop\Web_Api_Proje_09052022\Data\bin\Debug\net5.0\Data.pdb
+C:\Users\gokhan.yuce\Desktop\Web_Api_Proje_09052022\Data\obj\Debug\net5.0\Data.csproj.AssemblyReference.cache
+C:\Users\gokhan.yuce\Desktop\Web_Api_Proje_09052022\Data\obj\Debug\net5.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokhan.yuce\Desktop\Web_Api_Proje_09052022\Data\obj\Debug\net5.0\Data.AssemblyInfoInputs.cache
+C:\Users\gokhan.yuce\Desktop\Web_Api_Proje_09052022\Data\obj\Debug\net5.0\Data.AssemblyInfo.cs
+C:\Users\gokhan.yuce\Desktop\Web_Api_Proje_09052022\Data\obj\Debug\net5.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\gokhan.yuce\Desktop\Web_Api_Proje_09052022\Data\obj\Debug\net5.0\Data.dll
+C:\Users\gokhan.yuce\Desktop\Web_Api_Proje_09052022\Data\obj\Debug\net5.0\ref\Data.dll
+C:\Users\gokhan.yuce\Desktop\Web_Api_Proje_09052022\Data\obj\Debug\net5.0\Data.pdb
